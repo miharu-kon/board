@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T07:31:39.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="cRyCFCP9KCspfSce-InA" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T08:23:52.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="yyQk-I_xQ2tYyhwh7WPH" version="14.7.7" type="github">
   <diagram id="N0kmKi-85u8Lbk43hnXO" name="Page-1">
-    <mxGraphModel dx="1277" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,11 +102,11 @@
         <mxCell id="z6FXCxuozHlqTasnv3HN-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z6FXCxuozHlqTasnv3HN-57" target="z6FXCxuozHlqTasnv3HN-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z6FXCxuozHlqTasnv3HN-57" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;【必要な機能】&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;・名前入力&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;・コメント入力&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;・掲示板表示&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="14" y="660" width="380" height="210" as="geometry" />
+        <mxCell id="z6FXCxuozHlqTasnv3HN-57" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;【必要な機能】&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;・名前入力&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;・コメント入力、削除&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;・掲示板表示&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="15" y="660" width="380" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="z6FXCxuozHlqTasnv3HN-60" value="&lt;div style=&quot;text-align: justify ; font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;【詳細】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify ; font-size: 20px&quot;&gt;&lt;span&gt;・文字数チェック&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;・同時書き込み処理&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;・セキュリティ対策&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="660" width="380" height="210" as="geometry" />
+        <mxCell id="z6FXCxuozHlqTasnv3HN-60" value="&lt;div style=&quot;text-align: justify ; font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;【詳細】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify ; font-size: 20px&quot;&gt;&lt;span&gt;・文字数チェック&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;div style=&quot;text-align: justify&quot;&gt;・同時書き込み処理&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;・セキュリティ対策&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;スレッド&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="431" y="660" width="380" height="210" as="geometry" />
         </mxCell>
         <mxCell id="z6FXCxuozHlqTasnv3HN-62" value="新規投稿&lt;br&gt;確認画面&lt;br&gt;メインへ戻る" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="434" y="208" width="90" height="112.5" as="geometry" />
